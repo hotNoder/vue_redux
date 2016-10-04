@@ -1,2 +1,2 @@
 # vue_redux
-An example to combine vue and redux
+An boilerplate of combining vue and redux
